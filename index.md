@@ -1,8 +1,7 @@
-<!—Powered by Sxl.cn 4 (1) Dec 13, 2018 at 19:58
 <!DOCTYPE html>
 <html itemscope itemtype=’http://schema.org/WebPage’ lang=’zh-CN’ xmlns:fb=’https://www.facebook.com/2008/fbml’ xmlns:og=’http://ogp.me/ns#’ xmlns=’http://www.w3.org/1999/xhtml’>
 <head>
-<title>圣光城SagradoAurora | 上线了sxl.cn</title>
+<title>圣光城SagradoAurora | Github</title>
 <meta content=’text/html; charset=UTF-8’ http-equiv=’Content-Type’>
 <meta content=’width=device-width,initial-scale=1.0,user-scalable=yes,minimum-scale=1.0,maximum-scale=3.0’ id=’viewport’ name=’viewport’>
 <meta content=’#ffffff’ name=’theme-color’>
