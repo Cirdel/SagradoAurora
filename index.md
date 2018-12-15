@@ -2,6 +2,42 @@
 </center>
 <center>SAGRADOAURORA</center>
 
-<center><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" />
-</center>
-[img]https://upload.cc/i1/2018/12/15/xCkKLs.jpg[/img]
+<center><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/TS2IEL.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/XVuWqH.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/suaiVv.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/6WAMHe.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/b5KLEJ.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/zpUlLk.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xl5zvi.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/1VD3km.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/CkFTd9.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
+
+<center><img src="https://upload.cc/i1/2018/12/15/xCkKLs.jpg" width="100%" height="100%" /></center>
