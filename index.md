@@ -6,9 +6,6 @@
 　　　　　　
 　　　　　　
 
-<center><img src="http://user-assets.sxlcdn.com/images/344846/Fm7wDKErlLwK9Pbzlt0hN64_lA8E.jpg?imageMogr2/strip/auto-orient/thumbnail/720x1440%3E/quality/90!/interlace/1/format/jpg" width="25%" height="25%" />
-</center>
-<center>SAGRADOAURORA</center>
 
 <center><img src="http://user-assets.sxlcdn.com/images/344846/FpLWvV4oxbFeuj0MpxlTjapi0rBP.jpeg?imageMogr2/strip/auto-orient/thumbnail/2000x1500&gt;/quality/90!/interlace/1/format/jpeg" width="100%" height="100%" /></center>
 
