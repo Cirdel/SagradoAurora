@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html itemscope itemtype=’http://schema.org/WebPage’ lang=’zh-CN’ xmlns:fb=’https://www.facebook.com/2008/fbml’ xmlns:og=’http://ogp.me/ns#’ xmlns=’http://www.w3.org/1999/xhtml’>
-<head>
-<title>圣光城SagradoAurora | Github</title>
-<meta content=’text/html; charset=UTF-8’ http-equiv=’Content-Type’>
-<meta content=’width=device-width,initial-scale=1.0,user-scalable=yes,minimum-scale=1.0,maximum-scale=3.0’ id=’viewport’ name=’viewport’>
-<meta content=’#ffffff’ name=’theme-color’>
-
-<link rel=”stylesheet” media=”screen” href=https://static-assets.sxlcdn.com/_reset-e86dc20205eb267eb1803edb4281063d0db8db4dde3345771532819dae916332.css />
-
 <link rel=”stylesheet” media=”screen” href=https://static-assets.sxlcdn.com/themes/fresh/main_v4.6cbcfde75ec6e9316caf.bundle.css />
 <link href=’https://static-assets.sxlcdn.com/images/favicon-sxl.ico’ rel=’shortcut icon’ type=’image/x-icon’>
 <link href=’/i/pwa/manifest.json’ rel=’manifest’>
@@ -114,5 +104,3 @@ M=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 <script src=https://static-assets.sxlcdn.com/webpack/page-site-bundle.5df8d7fd5aeba6951d83.js defer=”defer”></script>
 </body>
 </html>
-<!—Powered by Sxl.cn 4 (1) Dec 13, 2018 at 19:58
-
